@@ -1,0 +1,7 @@
+Date,Region,Sales_Amount,Customer_Feedback
+01-01-2024,North,500,Great service!
+01-02-2024,North,ERROR_404,Fast delivery.
+03-01-2024,South,1200,
+04-01-2024,SOUth,-50,"Late arrival, very unhappy."
+05-01-2024,West,800,Loved the product.
+06-01-2024,,950,Average.
